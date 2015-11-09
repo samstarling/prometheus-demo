@@ -17,7 +17,7 @@ Then visit http://192.168.99.100:9090/graph, and run a query for
 "metric_name". Your IP will vary. You'll end up with a graph that might look
 a little bit like this:
 
-![docs/graph.png]()
+![](docs/graph.png)
 
 ## TODO
 
