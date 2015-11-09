@@ -2,9 +2,9 @@
 
 A repository that uses `docker-compose` to bring up:
 
-* Prometheus, for scraping metrics.
-* Pushgateway, to collect metrics (from the `push_data.sh` script.)
-* Grafana, as a UI.
+* [Prometheus][prometheus], for scraping metrics.
+* [Pushgateway][prompush], to collect metrics (from the `push_data.sh` script.)
+* [Grafana][grafana], as a UI.
 
 ## Getting Started
 
@@ -23,3 +23,7 @@ a little bit like this:
 
 * Grafana config "out of the box".
 * Something to put more meaningful test data into the system.
+
+[prometheus]: http://github.com/prometheus/prometheus
+[prompush]: http://github.com/prometheus/pushgateway
+[grafana]: http://github.com/grafana/grafana
