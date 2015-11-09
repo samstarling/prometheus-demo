@@ -10,8 +10,8 @@ A repository that uses `docker-compose` to bring up:
 
 Install `docker compose`, and then:
 
-  $ docker-compose up
-  $ 
+    $ docker-compose up
+    $ ./push_data.sh
 
 Then visit http://192.168.99.100:9090/graph, and run a query for 
 "metric_name". Your IP will vary. You'll end up with a graph that might look
