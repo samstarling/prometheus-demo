@@ -8,7 +8,7 @@ A repository that uses `docker-compose` to bring up:
 
 ## Getting Started
 
-Install `docker compose`, and then:
+Install `docker-compose`, and then:
 
     $ docker-compose up
     $ ./push_data.sh
