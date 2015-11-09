@@ -1,4 +1,4 @@
-# prometheus-example
+# prometheus-demo
 
 A repository that uses `docker-compose` to bring up:
 
